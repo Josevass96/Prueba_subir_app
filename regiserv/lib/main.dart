@@ -201,6 +201,10 @@ class _RegiServAppState extends State<RegiServApp> {
     super.dispose();
   }
 
+<<<<<<< HEAD
+=======
+  // This widget is the root of your application.ssa
+>>>>>>> 0ead2a987c8eaf48b3d0ab5cd3594657150c5a60
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
